@@ -15,3 +15,5 @@ Aplicação simples de TODOs com API RESTful em PHP (CodeIgniter 3) e MySQL.
 ```bash
 docker compose up -d
 # ou: docker-compose up -d (versão antiga)
+
+http://localhost:8080
